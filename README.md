@@ -1,2 +1,2 @@
-# Practica1SA
-Práctica 1 del Laboratorio de Software Avanzado - Vacaciones Diciembre 2020
+TESIS 2
+Prueba de implementación de integración continua
