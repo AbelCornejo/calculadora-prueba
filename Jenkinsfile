@@ -2,8 +2,8 @@ pipeline {
 	agent any
 	environment {
 
-        DOCKERHUB_USER     = credentials('dockerhub_user')
-        DOCKERHUB_PASSWORD = credentials('dockerhub_password')
+        DOCKERHUB_USER     = credentials('Abelcornejo')
+        DOCKERHUB_PASSWORD = credentials('Abelcornejo1902.')
 
 		PUPPET_MAIN_URL  = '35.184.65.50'
 		PUPPET_AGENT_URL_DEV = "35.222.16.182"
